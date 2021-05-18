@@ -10,3 +10,5 @@ The program sees the weather of the specified city or place. The weather of citi
 - socket
 - eel
 - requests
+
+<p align="center"><img src="how.png" /></p>
