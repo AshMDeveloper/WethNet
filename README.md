@@ -1,2 +1,2 @@
-# WPAM
-програма видает погоду указного города или место. погода гарадов парсится с сайта weather,com но есть еще несколько спецялние оборудование на базе ардуино уно которое передает данние с датчиков к raspberry py с помшю спутниковий связи, датчики могут нахадится на разних городах. rasppbery py тут играет роль сервера которий берет данние от датчиков и сахраняет. програма связивается с сервером и берет данние с указоних датчиков с помшю протокола связи.
+# WNet
+The program sees the weather of the specified city or place. The weather of cities is parsed from the site weatheр.com, but there is also equipment based on arduino uno that transmits data from sensors to raspberry py using satellite communications, the sensors can be located in different cities. Rasppbery py here plays the role of a server that takes data from sensors and saves it. The program communicates with the server and takes data from the specified sensors using the communication protocol.
